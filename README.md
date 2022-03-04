@@ -2,7 +2,7 @@
 - 👀 I’m interested in ruby
 - 🌱 I’m currently learning os
 - 💞️ I’m looking to collaborate on foreman
-- 📫 18621781488@163.com
+- 📫 
 
 <!---
 LongLonghaoran/LongLonghaoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
